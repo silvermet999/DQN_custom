@@ -1,3 +1,15 @@
+Following the docs: 
+[Make your own custom environment](https://gymnasium.farama.org/tutorials/gymnasium_basics/environment_creation/#sphx-glr-tutorials-gymnasium-basics-environment-creation-py)
+[Basic Usage](https://gymnasium.farama.org/introduction/basic_usage/)
+[Training an Agent](https://gymnasium.farama.org/introduction/train_agent/)
+
+Training stat:
+![TD error.png](docs%2FTD%20error.png)
+
+Test results:
+[test results.webm](docs%2Ftest%20results.webm)
+
+Farama README
 # Gymnasium Examples
 Some simple examples of Gymnasium environments and wrappers.
 For some explanations of these examples, see the [Gymnasium documentation](https://gymnasium.farama.org).
