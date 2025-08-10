@@ -9,8 +9,8 @@ Training stat:
 Test results:
 [test results.webm](docs%2Ftest%20results.webm)
 
-Farama README
-# Gymnasium Examples
+# Farama README
+## Gymnasium Examples
 Some simple examples of Gymnasium environments and wrappers.
 For some explanations of these examples, see the [Gymnasium documentation](https://gymnasium.farama.org).
 
