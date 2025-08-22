@@ -1,7 +1,7 @@
 Following the docs: 
-[Make your own custom environment](https://gymnasium.farama.org/tutorials/gymnasium_basics/environment_creation/#sphx-glr-tutorials-gymnasium-basics-environment-creation-py)
-[Basic Usage](https://gymnasium.farama.org/introduction/basic_usage/)
-[Training an Agent](https://gymnasium.farama.org/introduction/train_agent/)
+- [Make your own custom environment](https://gymnasium.farama.org/tutorials/gymnasium_basics/environment_creation/#sphx-glr-tutorials-gymnasium-basics-environment-creation-py)
+- [Basic Usage](https://gymnasium.farama.org/introduction/basic_usage/)
+- [Training an Agent](https://gymnasium.farama.org/introduction/train_agent/)
 
 Training stat:
 ![TD error.png](docs%2FTD%20error.png)
